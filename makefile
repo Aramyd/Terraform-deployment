@@ -1,4 +1,3 @@
-testing merge conflict
 #Deploy to the development environment
 deploy-dev:
 	echo "Deploying to development environment..."
